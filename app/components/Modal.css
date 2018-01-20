@@ -1,0 +1,16 @@
+.closeBtn {
+  float: right !important;
+  margin-top: -17px;
+  margin-right: -13px;
+}
+
+.browseBtn {
+  float: left;
+  width: 58% !important;
+}
+
+.container{
+  position: relative;
+  top: 35px;
+  text-align: center;
+}

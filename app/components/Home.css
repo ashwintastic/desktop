@@ -1,0 +1,26 @@
+.newExperiment {
+  position: relative;
+  top:50px;
+  margin: 10%;
+}
+
+.experimentName{
+
+}
+
+.text-right{
+  float: right;
+}
+
+.dirPath{
+  position: relative;
+  float: right;
+  margin-left: 50px;
+  opacity: 0.5;
+}
+
+.listItem:focus {
+  margin-bottom: 5px !important;
+  margin-top: 5px !important;
+  background-color: WHITE !important;
+}

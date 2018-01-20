@@ -1,0 +1,68 @@
+.overlayContainer{
+  height: 600px;
+  width: 900px;
+  background-color: white;
+  padding:10px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+.crossbtn {
+  float: right;
+  margin-right: -5px;
+  margin-top: -5px;
+}
+
+.sample {
+  position: absolute;
+  top: 80px;
+  background-color: WHITE;
+  padding: 6px 5px 2px 16px;
+  width: 70%;
+  float: left;
+}
+
+.plateHeader {
+  float:left;
+  margin-top: -5px;
+  margin-left: -10px;
+  color: #a6a6a6;
+}
+
+.sampleheaders {
+  float:left;
+  font-weight: 600;
+}
+
+.sampleImg {
+  max-height: 600px;
+  max-width: 600px;
+}
+
+.formControlCustom {
+  width: 30% !important;
+  margin-left: 47% !important;
+  height: 31px !important;
+}
+
+.drpdowncontainer {
+  display: -webkit-inline-box;
+  float: right;
+}
+
+.btnPosition {
+  margin-left: 8px;
+}
+
+.analysis {
+  background-color: ghostwhite;
+  padding: 10px !important;
+  overflow: auto;
+  margin-top: 20px;
+  max-height: 500px;
+  font-size: 12px;
+}

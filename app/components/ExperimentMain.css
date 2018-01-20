@@ -1,0 +1,19 @@
+.experimentMainPannel {
+  padding: 10px;
+}
+
+.crossbtn{
+  float: right;
+  margin-right: 5%;
+  margin-top: 10px;
+}
+
+.btn-group{
+  align:right;
+  maring-top: 10px;
+  margin-bottom: 10px;
+}
+
+.btn{
+  margin-left: 5px;
+}
